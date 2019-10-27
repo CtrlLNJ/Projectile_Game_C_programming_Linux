@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Graphics1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/BaseProject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="inc" />
+				</Compiler>
+				<Linker>
+					<Add option="-lportmidi" />
+					<Add option="-lportaudio" />
+					<Add option="-lporttime" />
+					<Add option="-lallegro_ttf" />
+					<Add option="-lallegro_primitives" />
+					<Add option="-lallegro_physfs" />
+					<Add option="-lallegro_memfile" />
+					<Add option="-lallegro_main" />
+					<Add option="-lallegro_image" />
+					<Add option="-lallegro_font" />
+					<Add option="-lallegro_dialog" />
+					<Add option="-lallegro_color" />
+					<Add option="-lallegro_audio" />
+					<Add option="-lallegro_acodec" />
+					<Add option="-lallegro" />
+					<Add directory="inc" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="lib/graphics_lib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lib/midi_lib.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

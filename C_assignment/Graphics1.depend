@@ -1,0 +1,170 @@
+# depslib dependency file v1.0
+1480950849 source:/home/joel/M_DRIVE/Docs/FirstYearProgramming/C/BaseProject/graphics_lib_functions.c
+	<graphics_lib.h>
+
+1480950901 /home/joel/M_DRIVE/Docs/FirstYearProgramming/C/BaseProject//graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1480951025 source:/home/joel/M_DRIVE/Docs/FirstYearProgramming/C/BaseProject/main.c
+	<graphics_lib.h>
+	<midi_lib.h>
+
+1480951011 /home/joel/M_DRIVE/Docs/FirstYearProgramming/C/BaseProject//midi_lib.h
+	<stdlib.h>
+	<portmidi.h>
+	<porttime.h>
+	<stdio.h>
+
+1480956515 source:/home/joel/M_DRIVE/Docs/FirstYearProgramming/C/BaseProject/lib/graphics_lib.c
+	<graphics_lib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1480956349 /home/joel/M_DRIVE/Docs/FirstYearProgramming/C/BaseProject/inc/graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1480951738 source:/home/joel/M_DRIVE/Docs/FirstYearProgramming/C/BaseProject/lib/midi_lib.c
+	"midi_lib.h"
+
+1480956741 /home/joel/M_DRIVE/Docs/FirstYearProgramming/C/BaseProject/inc/midi_lib.h
+	<stdlib.h>
+	<portmidi.h>
+	<porttime.h>
+	<stdio.h>
+
+1480953300 source:/home/joel/M_DRIVE/Docs/FirstYearProgramming/C/BaseProject/src/main.c
+	<graphics_lib.h>
+	<midi_lib.h>
+
+1480956515 source:/home/joel/M_DRIVE/Docs/FirstYearProgramming/C/Graphics1/lib/graphics_lib.c
+	<graphics_lib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1481814822 /home/joel/M_DRIVE/Docs/FirstYearProgramming/C/Graphics1/inc/graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1481193530 source:/home/joel/M_DRIVE/Docs/FirstYearProgramming/C/Graphics1/lib/midi_lib.c
+	"midi_lib.h"
+
+1481193521 /home/joel/M_DRIVE/Docs/FirstYearProgramming/C/Graphics1/inc/midi_lib.h
+	<stdlib.h>
+	<portmidi.h>
+	<porttime.h>
+	<stdio.h>
+
+1481195104 source:/home/joel/M_DRIVE/Docs/FirstYearProgramming/C/Graphics1/src/main.c
+	<graphics_lib.h>
+
+1480956515 source:/usr/userfs/j/jdf513/Docs/FirstYearProgramming/C/Graphics1/lib/graphics_lib.c
+	<graphics_lib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1480956349 /usr/userfs/j/jdf513/Docs/FirstYearProgramming/C/Graphics1/inc/graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1481195104 source:/usr/userfs/j/jdf513/Docs/FirstYearProgramming/C/Graphics1/src/main.c
+	<graphics_lib.h>
+
+1481809772 source:/home/userfs/n/nl862/Graphics1/lib/graphics_lib.c
+	<graphics_lib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1483975232 /home/userfs/n/nl862/Graphics1/inc/graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1481193530 source:/home/userfs/n/nl862/Graphics1/lib/midi_lib.c
+	"midi_lib.h"
+
+1483976292 /home/userfs/n/nl862/Graphics1/inc/midi_lib.h
+	<stdlib.h>
+	<portmidi.h>
+	<porttime.h>
+	<stdio.h>
+
+1517342605 source:/home/userfs/n/nl862/Graphics1/src/main.c
+	<graphics_lib.h>
+
+1481809772 source:/home/userfs/n/nl862/stick_man_final/lib/graphics_lib.c
+	<graphics_lib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1483975232 /home/userfs/n/nl862/stick_man_final/inc/graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1481193530 source:/home/userfs/n/nl862/stick_man_final/lib/midi_lib.c
+	"midi_lib.h"
+
+1483976292 /home/userfs/n/nl862/stick_man_final/inc/midi_lib.h
+	<stdlib.h>
+	<portmidi.h>
+	<porttime.h>
+	<stdio.h>
+
+1517354949 source:/home/userfs/n/nl862/stick_man_final/src/main.c
+	<graphics_lib.h>
+

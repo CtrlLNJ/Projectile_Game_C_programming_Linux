@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1518018788 source:/home/userfs/n/nl862/stick_man_final/lib/graphics_lib.c
+	<graphics_lib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1483975232 /home/userfs/n/nl862/stick_man_final/inc/graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1481193530 source:/home/userfs/n/nl862/stick_man_final/lib/midi_lib.c
+	"midi_lib.h"
+
+1483976292 /home/userfs/n/nl862/stick_man_final/inc/midi_lib.h
+	<stdlib.h>
+	<portmidi.h>
+	<porttime.h>
+	<stdio.h>
+
+1517407244 source:/home/userfs/n/nl862/stick_man_final/guessing_game.c
+	<graphics_lib.h>
+
+1518089510 source:/home/userfs/n/nl862/stick_man_final/src/main.c
+	<graphics_lib.h>
+
+1518018788 source:/home/userfs/n/nl862/stick_man_final_changing/lib/graphics_lib.c
+	<graphics_lib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1483975232 /home/userfs/n/nl862/stick_man_final_changing/inc/graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1481193530 source:/home/userfs/n/nl862/stick_man_final_changing/lib/midi_lib.c
+	"midi_lib.h"
+
+1483976292 /home/userfs/n/nl862/stick_man_final_changing/inc/midi_lib.h
+	<stdlib.h>
+	<portmidi.h>
+	<porttime.h>
+	<stdio.h>
+
+1523297860 source:/home/userfs/n/nl862/stick_man_final_changing/src/main.c
+	<graphics_lib.h>
+	<math.h>
+
